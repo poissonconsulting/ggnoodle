@@ -8,3 +8,4 @@
 ^\.Rproj\.user$
 
 ^build\.R$
+^\.github$
