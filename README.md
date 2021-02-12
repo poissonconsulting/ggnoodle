@@ -1,13 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
-[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
-[![R build
-status](https://github.com/poissonconsulting/ggnoodle/workflows/R-CMD-check/badge.svg)](https://github.com/poissonconsulting/ggnoodle/actions)
-[![Codecov test
-coverage](https://codecov.io/gh/poissonconsulting/ggnoodle/branch/master/graph/badge.svg)](https://codecov.io/gh/poissonconsulting/ggnoodle?branch=master)
+[![Lifecycle:
+deprecated](https://img.shields.io/badge/lifecycle-deprecated-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#deprecated)
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 <!-- badges: end -->
